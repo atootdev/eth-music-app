@@ -1,0 +1,17 @@
+{
+  "name": "eth-music-app",
+  "version": "1.0.0",
+  "description": "Decentralized Audio Streaming App",
+  "main": "truffle-config.js",
+  "repository": {
+    "url": "https://github.com/atootdev/eth-music-app",
+    "type": "git"
+  },
+  "author": "Andrew Tutia aktutia@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "dotenv": "^10.0.0"
+  }
+}
